@@ -16,4 +16,4 @@ spec:
       - name: complete-prodcution-e2e-pipeline
         image: oumymajellali/complete-prodcution-e2e-pipeline:1.0.0-35
         ports:
-        - containerPort: 8081
+        - containerPort: 8084
